@@ -10,7 +10,7 @@
 
 ## Background Replace
 
-[Backround Replacement using ControlNet and IPAdapter](https://openart.ai/workflows/jaguar_pesky_18/backround-replacement-using-controlnet-and-ipadapter/Uqr9AZlov1uPeCuRjgp4)
+[Backround Replacement using ControlNet and IPAdapter](https://openart.ai/workflows/jaguar_pesky_18/backround-replacement-using-controlnet-and-ipadapter/Uqr9AZlov1uPeCuRjgp4)<br>
 [Background Replacer for Products & Portraits, Lighting Adjustment & Detail Preservation](https://openart.ai/workflows/myaiforce/UdbHePrLFEP9WzdrmmFj)
 
 ## Upscale
