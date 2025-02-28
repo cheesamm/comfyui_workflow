@@ -17,27 +17,28 @@ This repository contains a collection of workflows for ComfyUI, designed for var
 
 ## 🛠️ Setup & Usage
 
-Prerequisites
-Ensure ComfyUI is installed and running on your system.
-Recommended hardware: GPU with sufficient VRAM for smooth execution.
+### Prerequisites
+- Ensure ComfyUI is installed and running on your system.
+- Recommended hardware: GPU with sufficient VRAM for smooth execution.
 
+### Loading a Workflow
 1. Open ComfyUI.
 2. Import the desired .json workflow file.
 3. Adjust parameters as needed.
 4. Run the workflow and monitor results.
-5. Modifying Workflows
-  - Workflows are structured using node-based logic.
-  - Nodes can be adjusted, added, or removed based on project requirements.
-**Experimentation is encouraged to refine outputs.**
+  
+### Modifying Workflows
+- Workflows are structured using node-based logic.
+- Nodes can be adjusted, added, or removed based on project requirements.
+- Experimentation is encouraged to refine outputs.
 
 ## 📖 Notes
 
-1. Keep backups of modified workflows to track improvements.
-2. Some workflows may require additional models or extensions.
-3. Document any major changes for future reference.
+- Keep backups of modified workflows to track improvements.
+- Some workflows may require additional models or extensions.
+- Document any major changes for future reference.
 
 ## 🔗 References & Resources
-
-[ComfyUI Documentation](https://github.com/comfyanonymous/ComfyUI)
-
+- [ComfyUI Documentation](https://github.com/comfyanonymous/ComfyUI)
+---
 Last updated: 28/2/2025
