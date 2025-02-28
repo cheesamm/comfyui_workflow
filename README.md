@@ -4,8 +4,8 @@ This repository contains a collection of workflows for ComfyUI, designed for var
 
 ## 📌 Overview
 
-**Purpose**: A structured reference for managing and utilizing different ComfyUI workflows.\n
-**Scope**: Includes optimized pipelines for image generation, style transfers, model fine-tuning, and automation scripts.\n
+**Purpose**: A structured reference for managing and utilizing different ComfyUI workflows.
+**Scope**: Includes optimized pipelines for image generation, style transfers, model fine-tuning, and automation scripts.
 **Customization**: Each workflow is designed for easy modification and adaptation based on project needs.
 
 ## 📂 Workflow Categories
@@ -27,7 +27,7 @@ Recommended hardware: GPU with sufficient VRAM for smooth execution.
 4. Run the workflow and monitor results.
 5. Modifying Workflows
   - Workflows are structured using node-based logic.
-  - Nodes can be adjusted, added, or removed based on project requirements.\n
+  - Nodes can be adjusted, added, or removed based on project requirements.
 **Experimentation is encouraged to refine outputs.**
 
 ## 📖 Notes
