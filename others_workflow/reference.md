@@ -9,7 +9,7 @@
 [Ultimate Flux Fill Inpainting + Redux ft Florence2Flux Large and GGUF Model](https://openart.ai/workflows/aimotion_studio/ultimate-flux-fill-inpainting-redux-ft-florence2flux-large-and-gguf-model/Koo1LQtLkliGhBqji18u)<br>
 
 ## Background Replace
-
+[Background and Light control using IPadapter and IC-Light](https://openart.ai/workflows/dAOHs9oyTMSb9TSyczUB)<br>
 [Backround Replacement using ControlNet and IPAdapter](https://openart.ai/workflows/jaguar_pesky_18/backround-replacement-using-controlnet-and-ipadapter/Uqr9AZlov1uPeCuRjgp4)<br>
 [Background Replacer for Products & Portraits, Lighting Adjustment & Detail Preservation](https://openart.ai/workflows/myaiforce/UdbHePrLFEP9WzdrmmFj)<br>
 
