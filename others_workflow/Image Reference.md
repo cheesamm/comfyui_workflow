@@ -17,8 +17,13 @@
 
 [Superfast_Image_Upscale_for_regular_photos](https://openart.ai/workflows/turkey_reasonable_72/superfast_image_upscale_for_regular_photos/9Gov4jl2k42MM6798iLx)<br>
 
-## Mine
+## Character Sheet
+[Generate endless CONSISTENT CHARACTERS from one input image!](https://www.youtube.com/watch?v=grtmiWbmvv0)<br>
+++[Create CONSISTENT CHARACTERS from an INPUT IMAGE with FLUX!](https://www.youtube.com/watch?v=Uls_jXy9RuU)<br>
+[Create CONSISTENT CHARACTERS for your projects with FLUX!](https://www.youtube.com/watch?v=MbQv8zoNEfY)<br>
+[Make your own ANIME with this new mind-blowing AI TOOL!](https://www.youtube.com/watch?v=mEn3CYU7s_A)<br>
 
+## Mine
 [Reference Fill (flux-fill-dev + deepseek-Janus-Pro)](https://openart.ai/workflows/nouvo_ai/reference-fill-flux-fill-dev-deepseek-janus-pro/g7t03mYq6NKowj6c20QF)<br>
 [Flux Consistent Character Sheet](https://openart.ai/workflows/reverentelusarca/flux-consistent-character-sheet/oSEKBwDLvkt9rHMfdU1b)<br>
 [AIO - All In One v5.1 | For Graphic Designers](https://openart.ai/workflows/foxyflame/aio---all-in-one-v51-for-graphic-designers/MWgIyub4WBLSTJemSoFB)<br>
