@@ -4,8 +4,8 @@ This repository contains a collection of workflows for ComfyUI, designed for var
 
 ## 📌 Overview
 
-**Purpose**: A structured reference for managing and utilizing different ComfyUI workflows.<\br>
-**Scope**: Includes optimized pipelines for image generation, style transfers, model fine-tuning, and automation scripts.<\br>
+**Purpose**: A structured reference for managing and utilizing different ComfyUI workflows.</br>
+**Scope**: Includes optimized pipelines for image generation, style transfers, model fine-tuning, and automation scripts.</br>
 **Customization**: Each workflow is designed for easy modification and adaptation based on project needs.
 
 ## 📂 Workflow Categories
