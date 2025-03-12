@@ -12,6 +12,7 @@
 [Background and Light control using IPadapter and IC-Light](https://openart.ai/workflows/dAOHs9oyTMSb9TSyczUB)<br>
 [Backround Replacement using ControlNet and IPAdapter](https://openart.ai/workflows/jaguar_pesky_18/backround-replacement-using-controlnet-and-ipadapter/Uqr9AZlov1uPeCuRjgp4)<br>
 [Background Replacer for Products & Portraits, Lighting Adjustment & Detail Preservation](https://openart.ai/workflows/myaiforce/UdbHePrLFEP9WzdrmmFj)<br>
+[Change Background ++ （Redraw background, clothes, hair, face…and Generate foregrounds](https://openart.ai/workflows/grinlau/change-background/DoiYOkLj6ikwIbygd4gY)<br>
 
 ## Upscale
 
