@@ -13,6 +13,7 @@
 [Backround Replacement using ControlNet and IPAdapter](https://openart.ai/workflows/jaguar_pesky_18/backround-replacement-using-controlnet-and-ipadapter/Uqr9AZlov1uPeCuRjgp4)<br>
 [Background Replacer for Products & Portraits, Lighting Adjustment & Detail Preservation](https://openart.ai/workflows/myaiforce/UdbHePrLFEP9WzdrmmFj)<br>
 [Change Background ++ （Redraw background, clothes, hair, face…and Generate foregrounds](https://openart.ai/workflows/grinlau/change-background/DoiYOkLj6ikwIbygd4gY)<br>
+[人像换背景](https://www.runninghub.cn/post/1833023390457487361)<br>
 
 ## Upscale
 
